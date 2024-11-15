@@ -6,7 +6,7 @@ Setting up the environment
 create a virtual environment -
 
 Windows 
-* [ ] `virtualenv .venv` 
+* [ ] `virtualenv .venv`<br>
 `.venv\Scripts\activate` 
 `pip install -r requirements.txt` 
 `python3 .\main.py`
