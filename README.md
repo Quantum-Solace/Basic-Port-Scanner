@@ -7,12 +7,12 @@ create a virtual environment -
 
 Windows 
 * [ ] `virtualenv .venv`<br>
-`.venv\Scripts\activate` 
-`pip install -r requirements.txt` 
-`python3 .\main.py`
+* [ ] `.venv\Scripts\activate`<br> 
+* [ ] `pip install -r requirements.txt`<br>
+* [ ] `python3 .\main.py`<br>
 
 Linux
-`virtualenv .venv` 
-`source .venv/bin/activate` 
-`pip install -r requirements.txt` 
-`python3 main.py` 
+* [ ] `virtualenv .venv`<br> 
+* [ ] `source .venv/bin/activate`<br> 
+* [ ] `pip install -r requirements.txt`<br> 
+* [ ] `python3 main.py`<br>
